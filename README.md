@@ -3,7 +3,7 @@
 - 📌 My name is <b>Leon</b> and I'm 22 years old.
 - 👨🏻‍🎓 I'm currently studying <b>Business Computing</b> at the <b>HTW University of Applied Sciences Berlin</b>.
 - 🌱 I’m currently learning <b>JavaScript</b> and <b>Vue.js</b>.
-- <a href="mailto:leonkorth@icloud.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>   I am looking for an <b>internship</b> in Berlin as a <b>Software Developer</b> starting <b>December 2022</b>.
+- <a href="mailto:leonkorth@icloud.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 
 
 <!--
