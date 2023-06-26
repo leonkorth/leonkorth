@@ -1,6 +1,6 @@
 ## Hi, 
 
-- 📌 My name is <b>Leon</b> and I'm 22 years old.
+- 📌 My name is <b>Leon</b> and I'm 23 years old.
 - 👨🏻‍🎓 I'm currently studying <b>Business Computing</b> at the <b>HTW University of Applied Sciences Berlin</b>.
 - 🌱 I’m currently learning <b>JavaScript</b> and <b>Vue.js</b>.
 
